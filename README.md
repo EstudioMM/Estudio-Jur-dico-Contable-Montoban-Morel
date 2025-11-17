@@ -114,9 +114,11 @@ En el Estudio Montoban Morel, entendemos que los desafíos legales y las obligac
 
 <section id="contacto">
   <h2>Contacto</h2>
-  <p>Email: contacto@montobanmorel.com</p>
-  <p>Teléfono: +54 11 1234-5678</p>
-  <p>Dirección: Ciudad, Provincia, País</p>
+  <p>Email: magestcontable@mail.com</p>
+  <p>Email: abogsmmorel@mail.com</p>
+  <p>Teléfono: +54 221 5346258</p>
+  <p>Teléfono: +54 221 2215342291</p>
+  <p>Dirección: Ciudad de La Plata, Provincia de Buenos Aires, Argentina</p>
 </section>
 
 <footer>
